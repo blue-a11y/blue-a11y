@@ -1,4 +1,4 @@
-# 👋 你好，我是 Blue
+# 👋 你好，我是 blue
 
 > 刚踏上 GitHub 的新手，正在努力学习中 🌱
 
@@ -18,30 +18,6 @@
 - **后端**: Node.js · Python
 - **AI**: OpenClaw · Claude Code · GPT · GLM
 - **工具**: Git · Vercel · Docker · Feishu
-
----
-
-## 📦 项目
-
-| 项目 | 说明 | 技术栈 |
-|------|------|--------|
-| [BlueBlog](https://github.com/blue-a11y/blueblog) | 个人技术博客 | Next.js 15 · HeroUI v3 · Tailwind CSS v4 |
-| [OpenClaw Dashboard](https://github.com/blue-a11y/openclaw-command-center) | AI Agent 工作台 | Next.js · Rust · Tauri |
-
----
-
-## 🎯 正在做的事
-
-- 📖 学习开源协作流程
-- 🤖 搭建 AI Agent 自动化工作流
-- 🌐 写技术博客，记录学习过程
-
----
-
-## 📫 联系我
-
-- 📧 zhangxuan.nyuk@gmail.com
-- 💬 [飞书](https://www.feishu.cn)
 
 ---
 
