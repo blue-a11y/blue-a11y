@@ -13,7 +13,7 @@
 ## 🛠️ 技术栈
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,webpack,nodejs,tailwind,vim,neovim,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,webpack,nodejs,tailwind,vim,neovim,vscode&theme=light" alt="Tech Stack" />
 </p>
 
 ---
