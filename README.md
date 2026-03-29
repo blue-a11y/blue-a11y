@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/blue-a11y/blue-a11y/blob/main/assets/wave.svg" width="400" alt="wave"/>
+  <img src="https://github.com/blue-a11y/blue-a11y/blob/main/assets/wave.svg" width="500" alt="wave"/>
 </p>
 
 <p align="center">
