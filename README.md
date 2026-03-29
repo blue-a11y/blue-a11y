@@ -14,10 +14,9 @@
 
 ## 🛠️ 技术栈
 
-- **前端**: React · Next.js · TypeScript · Tailwind CSS
-- **后端**: Node.js · Python
-- **AI**: OpenClaw · Claude Code · GPT · GLM
-- **工具**: Git · Vercel · Docker · Feishu
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,python,rust,docker,git,vercel" alt="Tech Stack" />
+</p>
 
 ---
 
