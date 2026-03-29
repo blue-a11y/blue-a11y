@@ -1,35 +1,47 @@
-# 👋 Hey, I'm Blue
+# 👋 你好，我是 Blue
 
-**Full-Stack Developer** · AI Enthusiast · Builder
-
-Building things that matter, one commit at a time.
+> 刚踏上 GitHub 的新手，正在努力学习中 🌱
 
 ---
 
-## 🚀 What I'm Up To
+## 🧑‍💻 关于我
 
-- 🌐 **BlueBlog** — Personal tech blog built with Next.js 15 + HeroUI v3 + Tailwind CSS v4
-- 📊 **OpenClaw Dashboard** — Command center for my AI agent workflow
-- 🤖 **AI Agent Infrastructure** — Designing multi-agent systems with OpenClaw
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**: React · Next.js · TypeScript · Tailwind CSS · HeroUI
-
-**Backend**: Node.js · Python · Rust
-
-**AI/LLM**: OpenClaw · Claude Code · GPT · GLM · MiniMax
-
-**Tools**: Git · GitHub Actions · Vercel · Feishu · Docker
+- 🏫 前端开发者，正在探索 AI 与开发的结合
+- 🤖 对 AI Agent 和自动化工具充满热情
+- 📝 坚信「写下来才能记住」，所以开了这个 GitHub
 
 ---
 
-## 📫 Get in Touch
+## 🛠️ 技术栈
+
+- **前端**: React · Next.js · TypeScript · Tailwind CSS
+- **后端**: Node.js · Python
+- **AI**: OpenClaw · Claude Code · GPT · GLM
+- **工具**: Git · Vercel · Docker · Feishu
+
+---
+
+## 📦 项目
+
+| 项目 | 说明 | 技术栈 |
+|------|------|--------|
+| [BlueBlog](https://github.com/blue-a11y/blueblog) | 个人技术博客 | Next.js 15 · HeroUI v3 · Tailwind CSS v4 |
+| [OpenClaw Dashboard](https://github.com/blue-a11y/openclaw-command-center) | AI Agent 工作台 | Next.js · Rust · Tauri |
+
+---
+
+## 🎯 正在做的事
+
+- 📖 学习开源协作流程
+- 🤖 搭建 AI Agent 自动化工作流
+- 🌐 写技术博客，记录学习过程
+
+---
+
+## 📫 联系我
 
 - 📧 zhangxuan.nyuk@gmail.com
-- 💼 [飞书](https://www.feishu.cn)
+- 💬 [飞书](https://www.feishu.cn)
 
 ---
 
@@ -38,5 +50,5 @@ Building things that matter, one commit at a time.
 </p>
 
 <p align="center">
-  <sub>Built with ❤️ and way too much ☕</sub>
+  <sub>GitHub 新手，轻喷 🙏</sub>
 </p>
