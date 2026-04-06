@@ -20,6 +20,10 @@
 > 一个纯 React SPA 架构的个人技术博客。
 > **技术栈**：React 19 · Vite · TypeScript · HeroUI v3 · Tailwind CSS v4 · React Router v7
 
+### ⚙️ [blue-dotfiles](https://github.com/blue-a11y/blue-dotfiles)
+> 我的个人开发环境配置集合，包含 Neovim、Zsh、Tmux 等配置文件。
+> **内容**：LazyVim 配置、Oh My Zsh 插件、终端美化方案。
+
 ---
 
 ## 🛠️ 工具与技术栈
@@ -40,7 +44,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/blue-a11y/blue-a11y/blob/main/assets/wave.svg" width="500" alt="wave"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Neovim+User;Building+BlueBlog" alt="Typing SVG" />
 </p>
 
 <p align="center">
