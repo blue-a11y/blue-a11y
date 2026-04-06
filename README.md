@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Blue
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Neovim+User;Building+BlueBlog" alt="Typing SVG" />
+</p>
+
 > GitHub 新人开发者，正在努力探索开源世界，用代码记录成长 🌱
 
 ---
@@ -10,7 +14,7 @@
 - ⚡️ **效率控**：深度折腾 **Neovim** (LazyVim) & **Neovide**，追求极致的键盘流体验
 - 🚀 **极速编辑**：尝试 **Zed** 编辑器，感受 Rust 带来的性能飞跃
 - 🤖 **AI 探索**：使用 **OpenClaw** 搭建个人 AI 助手，探索 Agent 驱动的开发模式
-- 📘 **当前目标**：手搓纯 React 博客 [BlueBlog](https://github.com/blue-a11y/blueblog)，回归前端基础
+- 📘 **当前目标**：手搓纯 React 博客 [BlueBlog](https://github.com/blue-a11y/blueblog)
 
 ---
 
@@ -21,8 +25,7 @@
 > **技术栈**：React 19 · Vite · TypeScript · HeroUI v3 · Tailwind CSS v4 · React Router v7
 
 ### ⚙️ [blue-dotfiles](https://github.com/blue-a11y/blue-dotfiles)
-> 我的个人开发环境配置集合，包含 Neovim、Zsh、Tmux 等配置文件。
-> **内容**：LazyVim 配置、Oh My Zsh 插件、终端美化方案。
+> 个人开发环境配置集合，包含 Neovim、Zed、Ghostty 等配置文件及同步脚本。
 
 ---
 
@@ -42,10 +45,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Enthusiast;Neovim+User;Building+BlueBlog" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <sub>Stay curious, keep coding 🙏</sub>
