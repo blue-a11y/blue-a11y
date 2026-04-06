@@ -1,24 +1,24 @@
 # 👋 Hi, I'm Blue
 
-> 03年出生的前端开发者，热衷于构建高效、优雅的开发工作流 ✨
+> GitHub 新人开发者，正在努力探索开源世界，用代码记录成长 🌱
 
 ---
 
 ## 🧑‍💻 关于我
 
-- 🏫 2025er 前端开发者，追求代码质量与工程化实践
-- ⚡️ **效率控**：深度使用 **Neovim** (LazyVim) & **Neovide**，享受指尖飞舞的编码体验
-- 🚀 **极速编辑**：探索 **Zed** 编辑器，感受 Rust 带来的极致性能
-- 🤖 **自动化**：使用 **OpenClaw** 构建个人 AI 助手，探索 Agent 驱动的开发新模式
-- 🌐 **当前目标**：用 React 19 + Vite 打造全新的个人技术博客 [BlueBlog](https://github.com/blue-a11y/blueblog)
+- 🚀 **GitHub 萌新**：虽然刚起步，但对技术充满热情，正在通过一个个项目积累经验
+- ⚡️ **效率控**：深度折腾 **Neovim** (LazyVim) & **Neovide**，追求极致的键盘流体验
+- 🚀 **极速编辑**：尝试 **Zed** 编辑器，感受 Rust 带来的性能飞跃
+- 🤖 **AI 探索**：使用 **OpenClaw** 搭建个人 AI 助手，探索 Agent 驱动的开发模式
+- 📘 **当前目标**：手搓纯 React 博客 [BlueBlog](https://github.com/blue-a11y/blueblog)，回归前端基础
 
 ---
 
 ## 🚀 正在进行的项目
 
 ### 📘 [BlueBlog](https://github.com/blue-a11y/blueblog)
-> 纯 React SPA 架构的个人技术博客，拒绝黑盒，回归纯粹。
-> **技术栈**：React 19 · Vite · TypeScript · HeroUI v3 · Tailwind CSS v4
+> 一个纯 React SPA 架构的个人技术博客。
+> **技术栈**：React 19 · Vite · TypeScript · HeroUI v3 · Tailwind CSS v4 · React Router v7
 
 ---
 
@@ -26,7 +26,7 @@
 
 **核心开发**：
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,vite,nextjs,tailwind,nodejs,git&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,nodejs,git&theme=light" alt="Tech Stack" />
 </p>
 
 **效率神器**：
@@ -50,5 +50,5 @@
 </p>
 
 <p align="center">
-  <sub>Coding with ❤️ and ⚡️</sub>
+  <sub>Stay curious, keep coding 🙏</sub>
 </p>
