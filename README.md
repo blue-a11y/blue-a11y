@@ -26,7 +26,7 @@
 
 **核心开发**：
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,nodejs,git&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,git&theme=light" alt="Tech Stack" />
 </p>
 
 **效率神器**：
