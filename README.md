@@ -39,12 +39,6 @@
 
 ---
 
-## 📫 联系我
-
-- 📧 [zhangxuan.nyuk@outlook.com](mailto:zhangxuan.nyuk@outlook.com)
-
----
-
 <p align="center">
   <img src="https://github.com/blue-a11y/blue-a11y/blob/main/assets/wave.svg" width="500" alt="wave"/>
 </p>
