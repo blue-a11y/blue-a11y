@@ -24,7 +24,7 @@
 <p>
   <img src="https://img.shields.io/badge/Zed-编辑器-6554F0?style=flat-square&logo=zedindustries&logoColor=white" alt="Zed" />
   <img src="https://img.shields.io/badge/Ghostty-终端-111827?style=flat-square&logo=ghostery&logoColor=white" alt="Ghostty" />
-  <img src="https://img.shields.io/badge/OpenClaw-AI%20Agent-7C3AED?style=flat-square&logo=githubactions&logoColor=white" alt="OpenClaw" />
+  <img src="https://img.shields.io/badge/Claude%20Code-AI%20Coding-7C3AED?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Neovide-GUI-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovide" />
 </p>
 
