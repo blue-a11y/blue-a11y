@@ -30,17 +30,6 @@
 
 ---
 
-## GitHub 概览
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=blue-a11y&show_icons=true&hide_border=true&theme=transparent&title_color=2563EB&text_color=374151&icon_color=2563EB&locale=cn" alt="Blue 的 GitHub 数据" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue-a11y&layout=compact&hide_border=true&theme=transparent&title_color=2563EB&text_color=374151&locale=cn" alt="常用语言" />
-
-</div>
-
----
-
 <div align="center">
 
 **喜欢折腾，也保持兴趣。**
