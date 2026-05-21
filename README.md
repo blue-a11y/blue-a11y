@@ -18,7 +18,7 @@
 ## 技术栈与工具
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,nodejs,html,css,git,github,neovim,vscode,figma&theme=light" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,nodejs,html,css,git,github,vim,vscode,figma&theme=light" alt="Tech stack" />
 </p>
 
 <p>
