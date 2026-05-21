@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Blue gradient line</title>
-  <desc id="desc">A minimal blue and violet gradient line decoration.</desc>
+  <desc id="desc">A minimal animated blue and violet gradient line decoration.</desc>
   <defs>
     <linearGradient id="line-gradient" x1="120" y1="80" x2="1080" y2="80" gradientUnits="userSpaceOnUse">
       <stop stop-color="#60A5FA" stop-opacity="0" />
@@ -8,18 +8,34 @@
       <stop offset="0.5" stop-color="#8B5CF6" />
       <stop offset="0.78" stop-color="#2563EB" />
       <stop offset="1" stop-color="#60A5FA" stop-opacity="0" />
+      <animateTransform attributeName="gradientTransform" type="translate" values="-180 0;180 0;-180 0" dur="8s" repeatCount="indefinite" />
     </linearGradient>
     <filter id="soft-glow" x="0" y="0" width="1200" height="160" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feGaussianBlur stdDeviation="3" result="blur">
+        <animate attributeName="stdDeviation" values="2.4;4;2.4" dur="5s" repeatCount="indefinite" />
+      </feGaussianBlur>
       <feMerge>
         <feMergeNode in="blur" />
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
   </defs>
-  <path d="M120 82 C240 82 270 58 390 58 C510 58 520 102 640 102 C760 102 790 66 900 66 C990 66 1030 82 1080 82" stroke="url(#line-gradient)" stroke-width="3" stroke-linecap="round" filter="url(#soft-glow)" />
-  <path d="M220 104 H980" stroke="url(#line-gradient)" stroke-width="1" stroke-linecap="round" opacity="0.35" />
-  <circle cx="390" cy="58" r="4" fill="#60A5FA" opacity="0.85" />
-  <circle cx="640" cy="102" r="4" fill="#8B5CF6" opacity="0.85" />
-  <circle cx="900" cy="66" r="4" fill="#3B82F6" opacity="0.85" />
+  <path d="M120 82 C240 82 270 58 390 58 C510 58 520 102 640 102 C760 102 790 66 900 66 C990 66 1030 82 1080 82" stroke="url(#line-gradient)" stroke-width="3" stroke-linecap="round" filter="url(#soft-glow)">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M120 82 C240 82 270 58 390 58 C510 58 520 102 640 102 C760 102 790 66 900 66 C990 66 1030 82 1080 82;M120 78 C240 78 280 64 390 64 C510 64 525 96 640 96 C760 96 790 72 900 72 C990 72 1030 78 1080 78;M120 82 C240 82 270 58 390 58 C510 58 520 102 640 102 C760 102 790 66 900 66 C990 66 1030 82 1080 82" />
+  </path>
+  <path d="M220 104 H980" stroke="url(#line-gradient)" stroke-width="1" stroke-linecap="round" opacity="0.35">
+    <animate attributeName="opacity" values="0.22;0.45;0.22" dur="5s" repeatCount="indefinite" />
+  </path>
+  <circle cx="390" cy="58" r="4" fill="#60A5FA" opacity="0.85">
+    <animate attributeName="cy" values="58;64;58" dur="7s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.65;1;0.65" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="640" cy="102" r="4" fill="#8B5CF6" opacity="0.85">
+    <animate attributeName="cy" values="102;96;102" dur="7s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="1;0.65;1" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="900" cy="66" r="4" fill="#3B82F6" opacity="0.85">
+    <animate attributeName="cy" values="66;72;66" dur="7s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.65;1;0.65" dur="4s" repeatCount="indefinite" />
+  </circle>
 </svg>
