@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/wave.svg" width="100%" alt="Blue wave" />
+<img src="./assets/wave.gif" width="100%" alt="Blue wave" />
 
 # Blue
 
